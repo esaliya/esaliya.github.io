@@ -2,7 +2,7 @@ title: Saliya Ekanayake
 description: Ph.D. Candidate | Research Assistant at Indiana University, Bloomington
 google_analytics: UA-58621619-1
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
